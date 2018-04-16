@@ -15,6 +15,7 @@
 		"name_t":{
 			"da":"ammonit"
 			"ru":"аммонит"
+			"zh":"菊石"
 		},
 	},
 	"angler":{
@@ -57,12 +58,13 @@
 	"attackdrone":{
 		"name_t":{
 			"da":"angrebsdrone"
-			"ru":"атакующий дрон"	
+			"ru":"атакующий дрон"
 		},
 	},
 	"baryonyx":{
 		"name_t":{
 			"ru":"барионикс"
+			"zh":"重爪龙"
 		},
 	},
 	"basilisk":{
@@ -73,6 +75,7 @@
 	"basilosaurus":{
 		"name_t":{
 			"ru":"базилозавр"
+			"zh":"龙王鲸"
 		},
 	},
 	"beelzebufo":{
